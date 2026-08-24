@@ -72,8 +72,8 @@ Créez votre bot depuis le [Discord Developer Portal](https://discord.com/develo
 ### 2. Cloner le projet
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/fufu25yt/OmniLLM.git
+cd OmniLLM
 ```
 
 ### 3. Installer les dépendances
@@ -349,8 +349,8 @@ Create your bot through the [Discord Developer Portal](https://discord.com/devel
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/fufu25yt/OmniLLM.git
+cd OmniLLM
 ```
 
 ### 3. Install dependencies
